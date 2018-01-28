@@ -1,19 +1,21 @@
 <template lang="pug">
-  .app
-  	.container
-  		todo
+  .admin
+    .mainblock
+      .sidebar
+        Tabs
+      .rightblock
+        .header
+          App-Header
+        .content
+          router-view
+        .footer
 </template>
 
 <script>
-import todo from './components/todo.vue'
-
 export default {
-  components:{
-  	todo
+  components: {
+    AppHeader: require('./components/header.vue'),
+    Tabs: require('./components/tabs.vue')
   }
 }
 </script>
-
-<style lang="scss">
-
-</style>

@@ -1,0 +1,44 @@
+[
+	{
+		"id": 1,
+		"name": "html",
+		"percents": 10,
+		"type": 1
+	},
+	{
+		"id": 2,
+		"name": "css",
+		"percents": 20,
+		"type": 1
+	},
+	{
+		"id": 3,
+		"name": "javascript",
+		"percents": 40,
+		"type": 1
+	},
+	{
+		"id": 4,
+		"name": "git",
+		"percents": 10,
+		"type": 2
+	},
+	{
+		"id": 5,
+		"name": "webpack",
+		"percents": 50,
+		"type": 2
+	},
+	{
+		"id": 6,
+		"name": "node.js",
+		"percents": 10,
+		"type": 3
+	},
+	{
+		"id": 7,
+		"name": "mongo.db",
+		"percents": 10,
+		"type": 3
+	}
+]

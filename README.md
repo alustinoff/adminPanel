@@ -1,4 +1,4 @@
-# test-vue-app
+# portfolio-admin-vue
 
 > A Vue.js project
 
